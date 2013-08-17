@@ -3,7 +3,7 @@ SentinelChecker
 
 NaoQi Module for the Nao Robot
 
-This module modify the normal bihaviour of the chest button.
+This module modify the normal behaviour of the chest button.
 The main features of this module are:
 - 1 press of the chest button will make the robot to stand up if it stands down or stand down if it`s in the up possition
 - 2 consecutive presses will make the robot to loose stifness.
